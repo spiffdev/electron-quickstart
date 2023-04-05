@@ -29,30 +29,30 @@
     "@typescript-eslint/eslint-plugin": "^5.0.0",
     "@typescript-eslint/parser": "^5.0.0",
     "@vercel/webpack-asset-relocator-loader": "1.7.3",
-    "assert": "^2.0.0",
-    "buffer": "^6.0.3",
     "css-loader": "^6.0.0",
     "electron": "23.1.2",
     "eslint": "^8.0.1",
     "eslint-plugin-import": "^2.25.0",
     "fork-ts-checker-webpack-plugin": "^7.2.13",
-    "https-browserify": "^1.0.0",
     "node-loader": "^2.0.0",
+    "style-loader": "^3.0.0",
+    "ts-loader": "^9.2.2",
+    "ts-node": "^10.0.0",
+    "typescript": "~4.5.4"
+  },
+  "dependencies": {
+    "@spiffcommerce/core": "latest",
+    "@spiffcommerce/preview": "latest",
+    "assert": "^2.0.0",
+    "buffer": "^6.0.3",
+    "electron-squirrel-startup": "^1.0.0",
+    "https-browserify": "^1.0.0",
     "path-browserify": "^1.0.1",
     "process": "^0.11.10",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "stream-http": "^3.2.0",
-    "style-loader": "^3.0.0",
-    "ts-loader": "^9.2.2",
-    "ts-node": "^10.0.0",
-    "typescript": "~4.5.4",
     "url": "^0.11.0",
     "util": "^0.12.5"
-  },
-  "dependencies": {
-    "@spiffcommerce/core": "latest",
-    "@spiffcommerce/preview": "latest",
-    "electron-squirrel-startup": "^1.0.0"
   }
 }
