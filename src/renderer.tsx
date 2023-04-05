@@ -12,7 +12,6 @@ import { useState } from "react";
 import {
   SpiffCommerceClient,
   WorkflowExperience,
-  DesignCreationMessage,
 } from "@spiffcommerce/core";
 import { SpiffCommerce3DPreviewService } from "@spiffcommerce/preview";
 import ReactDOM from "react-dom/client";
