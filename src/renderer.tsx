@@ -21,8 +21,8 @@ console.log(
   '👋 This message is being logged by "renderer.js", included via webpack'
 );
 
-const integrationProduct = "5141150b-8419-4e24-ae3f-9cab47a7920f"; // iD3 Chef knife
-const workflowID = "3b09df2b-8808-4b1c-955a-d4172e706d11"; // iD3 Chef Knife Workflow
+const integrationProduct = "5141150b-8419-4e24-ae3f-9cab47a7920f"; // Sample Serving Board
+const workflowID = "3b09df2b-8808-4b1c-955a-d4172e706d11"; // Sample Serving Board Workflow
 
 /**
  * This is the main wrapper component for the App editor.
